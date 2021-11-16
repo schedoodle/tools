@@ -14,3 +14,11 @@
 
 1.  Google Firebase Account
 2.  Github Account
+
+# Github SSH
+
+## Generate SSH key
+1.  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+## Adding SSH key
+2.  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
